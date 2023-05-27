@@ -1,0 +1,103 @@
+a / an: bir.
+big: buyuk.
+book: kitap ; defter.
+cat: kedi.
+dad: baba.
+dog: kopek.
+house: ev.
+mom: anne (cocuk dili veya  mother  kelimesinin kisa soylenisi).
+red: kirmizi; (yuz) kipkirmizi al; (sac) kizil.
+the: belirlilik takisi (tekil veya cogul adlarin onunde kullanilir).
+tree: agac.
+am: birinci tekil sahis icin (yardimci fiil).
+are: ikinci tekil ve tum cogul sahislar icin.
+he: o (erkek).
+I: ben.
+is : ucuncu tekil sahis icin (yardimci fiil).
+it: o; onu; ona (cansizlar hayvanlar).
+she: o (disi).
+they: onlar; herkes.
+we: biz.
+you: sen siz; seni sizi; sana size.
+be: olmak; bulunmak.
+can: (yapabilmek edebilmek).
+did: do  (yapmak) fiilinin -di li gecmis hali; -di li gecmis zamanda yardimci fiil.
+do: bir eylem veya bir isi yapmak; genis zaman yardimci fiili.
+does: do (yapmak)  fiilinin genis zamanda ucuncu tekil sahis hali; ucuncu tekil sahis genis zaman yardimci fiili (soru ve olumsuz cumlelerde).
+done: do  (yapmak) fiilinin ucuncu hali; bitmis yapilmis sona ermis; pismis; anlastik.
+go: gitmek.
+gone: go  (gitmek) fiilinin ucuncu hali; kaybolmak yerinde yeller esmek; bitmis; yok olmus gitmis.
+went: go  (gitmek) fiilinin di li gecmis hali.
+what: ne.
+cake: kek; top kek; pasta; revani.
+her: (ucuncu tekil sahis icin zamir; kadin) onun ona.
+his: (ucuncu tekil sahis icin zamir; erkek) onun ona.
+in: (yer) icinde; icine.
+its: (cansizlar ve hayvanlar icin) onun; ona ait (onunki)
+make / made: yapmak etmek; uretmek; make  (yapmak) fiilinin di li gecmis hali.
+my: benim.
+not: olumsuzluk takisi.
+that: su o.
+this: bu.
+your: senin sizin.
+bus: otobus; otobusle goturmek; otobusle tasimak.
+bye: Hoscakal Eyvallah bay bay (bye bye-bye goodbye).
+here: burada; buraya; buradan; burasi.
+home: ev aile ocagi; yuva yurt.
+little: kucuk ufak; (sayilamayan isimlerde) az.
+one: bir.
+put: koymak yerlestirmek oturtmak.
+see / saw: : gormek; see  (gormek) fiilinin di li gecmis hali.
+some: biraz bir miktar; birkac; bazi.
+there: orada oraya; var.
+two: iki.
+all: hepsi tumu; butun; tamamen.
+by: vasitasiyla; ile; yaninda yanibasinda.
+come / came: gelmek; come  (gelmek) fiilinin di li gecmis hali..
+eat: yemek; yemek yemek.
+from: -den -dan; (zaman) -den -dan: (kisi) -den -dan: (koken) -den -dan.
+long: uzun.
+look: bakmak; gorunmek.
+now: simdi su anda; artik
+to: -e/a; -e/a dogru; -e/a kadar; -mek -mak.
+where: nerede nereye nereden.
+and: ve; (sayilar) daha.
+but: fakat ama.
+good: iyi; basarili; hos guzel.
+had: has  ve  have  (sahip olmak) fiillerinin ikinci ve ucuncu halleri.
+has: ucuncu tekil sahislarda sahip olmak (has got).
+have: sahip olmak (have got).
+help: yardim etmek yardimci olmak; yardim.
+how: nasil; ne sekilde; ne durumda; kac ne kadar.
+like: hoslanmak sevmek begenmek; gibi.
+into: iceri; -e/a -ye/ya.
+of: -nin -nin.
+or: veya ya da yoksa; aksi takdirde.
+out: disari disariya; disarida; cikmis; (out of) disinda disari disariya.
+over: uzerinde; uzerinden; ustunde; ustune.
+shall: (Tekil ve cogul sahislarda) -ecek -acak.
+too: de/da dahi (olumlu cumlelerde); gereginden fazla cok asiri.
+very: cok pek.
+who: kim.
+will: -ecek/acak.
+with: ile beraber; -li -li.
+at: (yer) -de/da; (zaman) -de/da; (yer) -de/da.
+away: baska yere baska tarafa; uzaga uzaklara uzakta; (kaldirmak) baska bir yere.
+day: gun; gunduz.
+for: icin; -e/a -ye/ya; suresince (zaman).
+me: beni; bana.
+them: onlari; onlara.
+up: yukari yukariya yukarida; dik olarak; (zaman) dolmus; (yer) kuzeyi belirtir.
+was / were: am ve  is  (to be) fiilerinin di li gecmis hali; are  (to be) fiilinin di li gecmis hali.
+down: asagiya; asagida; boyunca.
+get: getirmek; almak; edinmek; sahip olmak; ugramak; binmek; varmak ulasmak; anlamak.
+no: (olumsuzluk cevabi) hayir; hic hicbir; olamaz imkansiz ( Oh no! ).
+on: uzerinde uzerine; ustunde ustune.
+say / said: soylemek demek belirtmek; say  (soylemek demek) fiilinin di li gecmis hali.
+water: su; sulamak.
+when: ne zaman (soru kelimesi).
+yes: evet; tabii; buyurun efendim.
+sandwich: sandvic; ekmek arasi; sandvic yapmak; iki seyin arasina sikistirmak.
+hello : merhaba.
+uncle : dayi/amca.
+world : dunya.
